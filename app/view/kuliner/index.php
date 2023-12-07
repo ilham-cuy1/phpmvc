@@ -6,7 +6,7 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h3 class="card-title mb-3">Kuliner</h3>
+              <h3 class="card-title mb-3">Kuli</h3>
               <p class="card-text">Kompetensi Keahlian Kuliner, merupakan salah satu jurusan atau kompetensi yang memberikan Pelajaran di Bidang Pengolahan dan Penyajian makanan baik Oriental, Indonesia, Continental, Pastry dan Bakery maupun Tata Hidang & Table manner</p>
             </div>
           </div>
